@@ -1,8 +1,16 @@
 .App {
+  color: white;
   text-align: center;
-}
+  background-color: rgb(25, 25, 92);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+} 
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +43,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */ 
